@@ -1,2 +1,2 @@
-# COVID-19-Data-Analysis
-Python project for analyzing and visualizing COVID-19 data with Pandas, Matplotlib, and Seaborn.
+# Add Python project for COVID-19 data analysis
+Includes Python code for data loading, cleaning, analysis, and visualizations using Pandas and Matplotlib.
